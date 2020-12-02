@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Desafio 8- Simple Weather</string>
+    <string name="fecha">Fecha</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="temperatura">temperatura</string>
+    <string name="grados">grados</string>
+    <string name="Temperatura">Temperatura</string>
+    <string name="Fecha">Fecha</string>
+    <string name="Ciudad">Ciudad</string>
+    <string name="Grados">Grados</string>
+</resources>
